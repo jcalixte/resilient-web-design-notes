@@ -2,4 +2,6 @@
 
 1. [HTML has superpowers](./material/web-languages.md)
 
-- [Resilient Web Design](https://resilientwebdesign.com/)
+## References
+
+- [Resilient Web Design](https://resilientwebdesign.com/chapter2/)
